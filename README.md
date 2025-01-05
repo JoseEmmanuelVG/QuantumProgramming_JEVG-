@@ -1,11 +1,21 @@
-# QuantumProgramming_JEVG-
+# Quantum Computing with Qiskit
+
+This repository contains introductory materials and exercises for quantum computing using Qiskit.
+
+## Access the Notebooks
+
+### 1. You can view the First notebook here 🔗 [Quantum Computing Intro](IBM_Qiskit_JEVG/QISKIT-Quantum_Computing_Intro-JEVG.ipynb).
+#### Topics
+- **Bit vs Qubit**: Understand the fundamental differences between classical and quantum bits.
+- **Quantum Gates**: Learn about the basic gates used to manipulate qubits.
+- **Exercises**: Practice with Qiskit by defining qubits, creating circuits, and visualizing results.
 
 
 
 
 
 
-
+---
 <details>
   <summary>🌟 Did you find any repository useful?</summary>
   If any project has been helpful to you, consider giving it a ⭐ star in the repository and follow my GitHub account to stay tuned for future updates! 🚀
